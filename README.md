@@ -1,4 +1,4 @@
-# QuantEquityManagement
+# Dynamic Multi-Strategy Platform for Robust Alpha Generation
 
 This repo serves as my attempt to master Quant Rearch Fundamentals.  
 
